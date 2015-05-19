@@ -1,3 +1,11 @@
+[![PyPi version](https://pypip.in/v/raise_if/badge.png)](https://crate.io/packages/raise_if/)
+[![PyPi downloads](https://pypip.in/d/raise_if/badge.png)](https://crate.io/packages/raise_if/)
+[![Build
+Status](https://travis-ci.org/rochacbruno/raise_if.png)](https://travis-ci.org/rochacbruno/raise_if)
+[![Coverage
+Status](https://coveralls.io/repos/rochacbruno/raise_if/badge.png)](https://coveralls.io/r/rochacbruno/raise_if)
+[![Code Health](https://landscape.io/github/rochacbruno/raise_if/master/landscape.svg)](https://landscape.io/github/rochacbruno/raise_if/master)
+
 # raise_if
 
 Python could have raise conditions like Ruby.
