@@ -1,0 +1,7 @@
+[run]
+source = raise_if
+
+[report]
+omit =
+    */python?.?/*
+    */site-packages/nose/*
