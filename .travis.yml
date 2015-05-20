@@ -7,7 +7,7 @@ python:
   - "3.4"
   - "nightly"
 # command to install dependencies
-install: "pip install nose"
+install: "pip install nose coverage coveralls"
 # command to run tests
 script: nosetests
 after_success:
