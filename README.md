@@ -5,7 +5,11 @@ Status](https://travis-ci.org/rochacbruno/raise_if.png)](https://travis-ci.org/r
 [![Coverage
 Status](https://coveralls.io/repos/rochacbruno/raise_if/badge.png)](https://coveralls.io/r/rochacbruno/raise_if)
 [![Code Health](https://landscape.io/github/rochacbruno/raise_if/master/landscape.svg)](https://landscape.io/github/rochacbruno/raise_if/master)
+![Utility](https://img.shields.io/badge/utility-0%25-lightgrey.svg)
 
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/gluten-free.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
 # raise_if
 
 Python could have raise conditions like Ruby.
