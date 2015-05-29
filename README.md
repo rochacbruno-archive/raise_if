@@ -1,5 +1,3 @@
-[![PyPi version](https://pypip.in/v/raise_if/badge.png)](https://crate.io/packages/raise_if/)
-[![PyPi downloads](https://pypip.in/d/raise_if/badge.png)](https://crate.io/packages/raise_if/)
 [![Build
 Status](https://travis-ci.org/rochacbruno/raise_if.png)](https://travis-ci.org/rochacbruno/raise_if)
 [![Coverage
