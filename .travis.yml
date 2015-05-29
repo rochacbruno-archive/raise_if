@@ -7,8 +7,9 @@ python:
   - "3.4"
   - "nightly"
 # command to install dependencies
-install: "pip install nose coverage coveralls"
+install: "pip install nose coverage coveralls codecov"
 # command to run tests
 script: nosetests --cover-package=raise_if --with-coverage
 after_success:
   - coveralls
+  - codecov
