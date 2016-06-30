@@ -1,4 +1,4 @@
-from raise_if import raise_if
+import raise_if
 
 
 def test_passing_exception_object():

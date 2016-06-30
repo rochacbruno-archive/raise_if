@@ -2,13 +2,15 @@ import setuptools
 
 setuptools.setup(
     name="raise_if",
-    version="0.1.2",
+    version="0.1.3",
     url="https://github.com/rochacbruno/raise_if",
 
     author="Bruno Rocha",
     author_email="rochacbruno@gmail.com",
 
-    description="Probably the small python package, only includes raise_if function",
+    description=(
+        "Probably the small python package, only includes raise_if function"
+    ),
     long_description=open('README.md').read(),
 
     packages=setuptools.find_packages(),

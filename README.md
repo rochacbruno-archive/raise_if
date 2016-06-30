@@ -29,7 +29,7 @@ So..
 ```python
 $ pip install raise_if
 
-from raise_if import raise_if
+import raise_if
 
 def i_must_have_truth(value):
     raise_if(not value, TypeError, 'You must give me truth')
