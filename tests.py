@@ -13,6 +13,6 @@ def test_passing_exception_object():
 
 def test_passing_exception_type_and_arguments():
     try:
-        raise_if(not 1 == 2, Exception, '1 not equals 2')
-    except Exception as e:
+        raise_if(not 1 == 2, ValueError, '1 not equals 2')
+    except ValueError as e:
         assert str(e) == '1 not equals 2'
