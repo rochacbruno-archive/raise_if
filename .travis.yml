@@ -6,9 +6,11 @@ python:
   - "3.6"
   - "nightly"
 # command to install dependencies
-install: "pip install nose coverage coveralls codecov"
+install: "pip install nose coverage coveralls codecov flake8"
 # command to run tests
-script: nosetests --cover-package=raise_if --with-coverage
+script:
+  - flake8 .
+  - nosetests --cover-package=raise_if --with-coverage
 after_success:
   - coveralls
   - codecov
